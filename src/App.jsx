@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React,{ useState } from "react";
 import Tesseract from "tesseract.js";
 import "./App.css";
 
